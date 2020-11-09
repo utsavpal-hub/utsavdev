@@ -1,2 +1,2 @@
-color :
- 		red,green,blue
+color : Green and red 
+	new : pink
